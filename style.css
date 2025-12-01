@@ -18,8 +18,7 @@ nav a {
   width: 95%;
   margin: auto;
 }
-/* HERO BANNER */
-/* FULL SCREEN HERO SECTION */
+
 .hero-banner {
   position: relative;
   width: 100%;
@@ -54,7 +53,6 @@ nav a {
   background: #d93c75;
 }
 
-/* TEXT OVER IMAGE */
 .hero-text {
   position: absolute;
   top: 50%;
